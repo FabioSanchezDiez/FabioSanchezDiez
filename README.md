@@ -1,8 +1,49 @@
-### Hi, I'm Fabio! 👋
-### I'm a student and a full-stack web & android developer.
+# Hi, I'm Fabio Sánchez 👋
 
-![BannerFabio](https://github.com/FabioSanchezDiez/FabioSanchezDiez/assets/150276518/b5bbaf5d-1ae8-43dc-945d-5409b63774ce)
+**Full Stack & AI Developer** with 2+ years of professional experience, focused on building products and applications with the help of AI.
 
+I graduated in Multiplatform Application Development and build complete applications, from development to production, including a proper testing plan.
 
-Right now, I'm finishing my software development studies at Atlantida CIDEP.
+## 🤖 AI
 
+I work with Amazon Bedrock and the Claude API, RAG, embeddings, evals and MCP.
+
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTMuMDUgMTUuNTEzaDMuMDhjLjIxNCAwIC4zODkuMTc3LjM4OS4zOTR2MS44MmExLjcwNCAxLjcwNCAwIDAxMS4yOTYgMS42NjFjMCAuOTQzLS43NTUgMS43MDgtMS42ODUgMS43MDgtLjkzMSAwLTEuNjg2LS43NjUtMS42ODYtMS43MDggMC0uODA3LjU1NC0xLjQ4NCAxLjI5Ny0xLjY2MnYtMS40MjVoLTIuNjl2NC42NjNhLjM5NS4zOTUgMCAwMS0uMTg4LjMzOGwtMi42OSAxLjY0MWEuMzg1LjM4NSAwIDAxLS40MDUtLjAwMmwtNC45MjYtMy4wODZhLjM5NS4zOTUgMCAwMS0uMTg1LS4zMzZWMTYuM0wyLjE5NiAxNC44N0EuMzk1LjM5NSAwIDAxMiAxNC41NTVMMiAxNC41MjhWOS40MDZjMC0uMTQuMDczLS4yNy4xOTItLjM0bDIuNDY1LTEuNDYyVjQuNDQ4YzAtLjEyOS4wNjItLjI0OS4xNjUtLjMyMmwuMDIxLS4wMTRMOS43NyAxLjA1OGEuMzg1LjM4NSAwIDAxLjQwNyAwbDIuNjkgMS42NzVhLjM5NS4zOTUgMCAwMS4xODUuMzM2VjcuNmgzLjg1NlY1LjY4M2ExLjcwNCAxLjcwNCAwIDAxLTEuMjk2LTEuNjYyYzAtLjk0My43NTUtMS43MDggMS42ODUtMS43MDguOTMxIDAgMS42ODUuNzY1IDEuNjg1IDEuNzA4IDAgLjgwNy0uNTUzIDEuNDg0LTEuMjk2IDEuNjYydjIuMzExYS4zOTEuMzkxIDAgMDEtLjM4OS4zOTRoLTQuMjQ1djEuODA2aDYuNjI0YTEuNjkgMS42OSAwIDAxMS42NC0xLjMxM2MuOTMgMCAxLjY4NS43NjQgMS42ODUgMS43MDcgMCAuOTQzLS43NTQgMS43MDgtMS42ODUgMS43MDhhMS42OSAxLjY5IDAgMDEtMS42NC0xLjMxNEgxMy4wNXYxLjkzN2g0Ljk1M2wuOTE1IDEuMThhMS42NiAxLjY2IDAgMDEuODQtLjIyN2MuOTMxIDAgMS42ODUuNzY0IDEuNjg1IDEuNzA3IDAgLjk0My0uNzU0IDEuNzA4LTEuNjg1IDEuNzA4LS45MyAwLTEuNjg1LS43NjUtMS42ODUtMS43MDggMC0uMzQ2LjEwMi0uNjY4LjI3Ni0uOTM3bC0uNzI0LS45MzVIMTMuMDV2MS44MDZ6TTkuOTczIDEuODU2TDcuOTMgMy4xMjJWNi4wOWgtLjc3OFYzLjYwNEw1LjQzNSA0LjY2OXYyLjk0NWwyLjExIDEuMzZMOS43MTIgNy42MVY1LjMzNGguNzc4VjcuODNjMCAuMTM2LS4wNy4yNjMtLjE4NC4zMzVMNy45NjMgOS42Mzh2Mi4wODFsMS40MjIgMS4wMDktLjQ0Ni42NDYtMS40MDYtLjk5OC0xLjUzIDEuMDA1LS40MjMtLjY2IDEuNjA1LTEuMDU1di0xLjk5TDUuMDM4IDguMjlsLTIuMjYgMS4zNHYxLjY3NmwxLjk3Mi0xLjE4OS4zOTguNjc3LTIuMzcgMS40MjlWMTQuM2wyLjE2NiAxLjI1OCAyLjI3LTEuMzY4LjM5Ny42NzctMi4xNzYgMS4zMTFWMTkuM2wxLjg3NiAxLjE3NSAyLjM2NS0xLjQyNi4zOTguNjc4LTIuMDE3IDEuMjE2IDEuOTE4IDEuMjAxIDIuMjk4LTEuNDAzdi01Ljc4bC00Ljc1OCAyLjg5My0uNC0uNjc1IDUuMTU4LTMuMTM2VjMuMjg5TDkuOTcyIDEuODU2ek0xNi4xMyAxOC40N2EuOTEzLjkxMyAwIDAwLS45MDguOTJjMCAuNTA3LjQwNi45MTguOTA4LjkxOGEuOTEzLjkxMyAwIDAwLjkwNy0uOTE5LjkxMy45MTMgMCAwMC0uOTA3LS45MnptMy42My0zLjgxYS45MTMuOTEzIDAgMDAtLjkwOC45MmMwIC41MDguNDA2LjkyLjkwNy45MmEuOTEzLjkxMyAwIDAwLjkwOC0uOTIuOTEzLjkxMyAwIDAwLS45MDgtLjkyem0xLjU1NS00Ljk5YS45MTMuOTEzIDAgMDAtLjkwOC45MmMwIC41MDcuNDA3LjkxOC45MDguOTE4YS45MTMuOTEzIDAgMDAuOTA3LS45MTkuOTEzLjkxMyAwIDAwLS45MDctLjkyek0xNy4yOTYgMy4xYS45MTMuOTEzIDAgMDAtLjkwNy45MmMwIC41MDguNDA2LjkyLjkwNy45MmEuOTEzLjkxMyAwIDAwLjkwOC0uOTIuOTEzLjkxMyAwIDAwLS45MDgtLjkyeiIvPjwvc3ZnPg%3D%3D)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-B9682D?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-B9682D?style=for-the-badge)
+![Evals](https://img.shields.io/badge/Evals-B9682D?style=for-the-badge)
+
+I also use AI agents in my day-to-day development, building subagents, workflows and skills, and following spec-driven development (SDD) with Spec Kit and custom SDD workflows.
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4%3D)
+![Kimi Code](https://img.shields.io/badge/Kimi_Code-2F43C4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNiA0djE2TTYgMTNsOS05TTkuNiAxMC40IDE2IDIwIi8%2BPC9nPjxjaXJjbGUgY3g9IjE5IiBjeT0iNiIgcj0iMi4yIiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B)
+![Subagents](https://img.shields.io/badge/Subagents-B9682D?style=for-the-badge)
+![Workflows](https://img.shields.io/badge/Workflows-B9682D?style=for-the-badge)
+![Skills](https://img.shields.io/badge/Skills-B9682D?style=for-the-badge)
+![Spec Kit](https://img.shields.io/badge/Spec_Kit_(SDD)-181717?style=for-the-badge&logo=github&logoColor=white)
+![Custom SDD workflows](https://img.shields.io/badge/Custom_SDD_workflows-B9682D?style=for-the-badge)
+
+## 🛠️ Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxwYXRoIHN0cm9rZS13aWR0aD0iMi44IiBkPSJNMTMuMiA2LjZBNy4yIDcuMiAwIDEgMCAxMy4yIDE3LjQiLz48cGF0aCBzdHJva2Utd2lkdGg9IjEuNyIgZD0iTTE2LjcgOC40IDE1LjYgMTUuNk0yMC4yIDguNCAxOS4xIDE1LjZNMTQuOSAxMC43SDIxLjNNMTQuNCAxMy4zSDIwLjgiLz48L2c%2BPC9zdmc%2B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+## 🚀 Featured projects
+
+- **[EduSearch](https://github.com/FabioSanchezDiez/EduSearch):** open-source platform that helps students find educational paths, built for Aircury Summer of Code 2024. Symfony, Next.js, Docker.
+- **[FabioCode Academy](https://github.com/FabioSanchezDiez/FabioAcademy-Symfony-NextJS):** online course academy, my final project for the DAM degree. Symfony, Next.js, Docker.
